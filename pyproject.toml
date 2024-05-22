@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-openpose-editor"
+description = "A port of the openpose-editor extension for stable-diffusion-webui. NOTE: Requires [a/this ComfyUI patch](https://github.com/comfyanonymous/ComfyUI/pull/711) to work correctly"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/space-nuko/ComfyUI-OpenPose-Editor"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-OpenPose-Editor"
+Icon = ""
